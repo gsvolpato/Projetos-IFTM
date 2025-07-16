@@ -2,7 +2,7 @@
 
 Sistema de monitoramento inteligente para colmeias desenvolvido no IFTM Campus Paracatu.
 
-![Central de Monitoramento para Apiários](./assets/beehive-monitoring.png)
+![Central de Monitoramento para Apiários](./assets/RaspiarIO.jpg)
 
 ## Sobre o Projeto
 
