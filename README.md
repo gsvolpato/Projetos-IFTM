@@ -16,3 +16,5 @@ O RaspiarIO é um sistema de monitoramento em tempo real para apiários que perm
 - Detecção de Fumaça
 
 O sistema oferece uma interface web responsiva e um aplicativo móvel para visualização dos dados em tempo real e histórico de medições.
+
+![Central de Monitoramento para Apiários](./assets/Apiario-poster_XIV_SIN.jpg)
